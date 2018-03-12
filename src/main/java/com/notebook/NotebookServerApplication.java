@@ -8,5 +8,6 @@ public class NotebookServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NotebookServerApplication.class, args);
+
 	}
 }
